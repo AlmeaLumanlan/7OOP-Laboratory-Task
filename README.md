@@ -12,18 +12,11 @@ This **Object-Oriented Portfolio** showcases my programming journey, with 7OOP l
 Hello! I’m **Almea Lumanlan**, I like to think of myself as easygoing and curious. I enjoy spending time outdoors, whether it’s a walk, a trip, or just watching the sunset. Music is usually my background for almost everything I do. And honestly, I’m happiest when I’m around friends and family.
 
 ---
-
-## Fun Facts About Me
-- I love playing billiards 🎱
-- I enjoy palying mobile games 📱
-- I love cooking/baking 🧑‍🍳
-
----
   
 ## 🤔 What I Believe In
-- I believe in being kind, staying curious, and enjoying the little moments that make life good.
-- I believe in growing at my own pace and appreciating the journey along the way.
-- I believe in growing at my own pace and appreciating the journey along the way.
+- I believe in being kind, staying curious, and enjoying the little moments that make life good. 🙏
+- I believe in growing at my own pace and appreciating the journey along the way. 🫡
+- I believe in growth, perseverance, and responsibility to shape a better future. ❤️
 
 ##  Education
 **Elementary:** Cuayan Elementary School
@@ -33,18 +26,50 @@ Hello! I’m **Almea Lumanlan**, I like to think of myself as easygoing and curi
 **Senior High School:** Angeles City National Trade School
 
 ---
-
-## 🔗 Project Links
-
-
----
-
+## 📜 Languages I Use  
+- C  
+- Java  
 
 ---
 
-## 📫 Contact Me
-- **Facebook**: https://www.facebook.com/share/16ubhYsof/?mibextid=wwXlfr  
-- **LinkedIn**: [Your LinkedIn link]  
-- **Email**: your.email@example.com  
+## 💻 My Projects  
+
+### 🧪 MIDTERM  
+**MIDTERM LAB TASK 1:** [📂 Object Oriented Analysis](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/57bfa53355d0b1d465ff811e20d84987443560a7/MIDTERM%20ACT%201)
+
+Coming Soon.🔥 
+
+---
+
+## 📌 Skills
+- Communication 🗣️
+- Critical Thinking 🧠
+- Collaboration 🤝
+- Adaptability 🌊
+- Creativity 🎨
+  
+---
+
+## 🤡 Fun Facts About Me
+- I love playing billiards 🎱
+- I enjoy palying mobile games 📱
+- I love cooking/baking 🧑‍🍳
+
+---
+
+## 📞 Connect With Me Below!   
+
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/share/16unhY7sof/?mibextid=wwXlfr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mealmnln?igsh=MWsxNDdoemptbHV5Ng%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+</p>
+
+---
 
 
