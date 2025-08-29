@@ -35,7 +35,6 @@ Hello! I’m **Almea Lumanlan**, I like to think of myself as easygoing and curi
 ## 💻 My Projects  
 
 ### 🧪 MIDTERM  
-**MIDTERM LAB TASK 1:** [📂 Object Oriented Analysis](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/57bfa53355d0b1d465ff811e20d84987443560a7/MIDTERM%20ACT%201)
 
 Coming Soon.🔥 
 
